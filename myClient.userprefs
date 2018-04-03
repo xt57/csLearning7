@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="myClient.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/xt57/dev.d/myClient/Program.cs" line="161" column="1" />
+      <Breakpoint file="/home/xt57/dev.d/myClient/Program.cs" line="122" column="1" />
+      <Breakpoint file="/home/xt57/dev.d/myClient--working-basics--2018-04-01-A/Program.cs" line="115" column="1" />
+      <Breakpoint file="/home/xt57/dev.d/csTdLoginExample.d/Program.cs" line="103" column="1" />
+      <Breakpoint file="/home/xt57/dev.d/csTdLoginExample.d/Program.cs" line="94" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

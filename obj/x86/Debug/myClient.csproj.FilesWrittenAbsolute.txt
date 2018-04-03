@@ -1,0 +1,5 @@
+/home/xt57/dev.d/csTdLoginExample.d/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/xt57/dev.d/csTdLoginExample.d/bin/Debug/myClient.exe.mdb
+/home/xt57/dev.d/csTdLoginExample.d/bin/Debug/myClient.exe
+/home/xt57/dev.d/csTdLoginExample.d/obj/x86/Debug/myClient.exe
+/home/xt57/dev.d/csTdLoginExample.d/obj/x86/Debug/myClient.exe.mdb
